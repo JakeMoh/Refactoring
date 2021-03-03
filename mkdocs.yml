@@ -1,3 +1,30 @@
-site_name: My Docs
+site_name: CPSC448 Refactoring
+site_author: Jake Moh
+
+# Repository
+repo_name: JakeMoh/refactoring
+repo_url: https://github.com/JakeMoh/refactoring
+
+# Configuration
 theme:
-  material
+  name: material
+  features:
+    - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Project:
+    - ES6 Modularization: project/modularization.md
+    - Experiment Class Refactoring: project/exp-class-refactoring.md
+    - Graph Display Plugin: project/graph-plugin.md
+  - Worklog:
+    - January: worklog/worklog-jan.md
+    - February: worklog/worklog-feb.md
+    - March: worklog/worklog-mar.md
+    - April: worklog/worklog-apr.md
