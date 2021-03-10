@@ -12,6 +12,10 @@ theme:
     - navigation.tabs
   icon:
     repo: fontawesome/brands/github
+  palette:
+    primary: indigo
+  logo: 'img/vcl.svg'
+  favicon: 'img/vcl.svg'
 
 markdown_extensions:
   - admonition
