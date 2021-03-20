@@ -34,6 +34,24 @@ Refactoring JND class
 
 ## Mar 8 Mon
 
-Refactoring JND class variables
+Refactoring JND class by encapsulation of variables
 
 1 Hour
+
+## Mar 10 Wed
+
+Refactoring JND class by encapsulation of variables
+
+1 Hour
+
+## Mar 11 Thu
+
+Refactoring JND class by encapsulation of variables
+
+3 Hours
+
+## Mar 13 Sat
+
+Found out jsPsych.data.getInteractionData, which track if users clicked on another tab or exited from full screen
+
+6 Hours
