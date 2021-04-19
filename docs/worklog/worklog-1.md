@@ -58,4 +58,4 @@ Modularized screening and resolution scaling, and learned about modules
 
 2 Hours
 
-## Total: 14 Hours
+**Total: 14 Hours**

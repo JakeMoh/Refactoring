@@ -55,3 +55,23 @@ Refactoring JND class by encapsulation of variables
 Found out jsPsych.data.getInteractionData, which track if users clicked on another tab or exited from full screen
 
 6 Hours
+
+## Mar 20 Sat
+
+Testing and finihsing refactoring JND class
+
+7 Hours
+
+## Mar 30 Tue
+
+Studied how plugins work
+
+2 Hour
+
+## March 31 Wed
+
+Studied how plugins work and worked on graph display
+
+2 Hour
+
+## Total: 34 Hours

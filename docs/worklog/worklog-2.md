@@ -89,4 +89,4 @@ Created documentation for CPSC448 project using [material mkdocs](https://squidf
 
 3 Hours
 
-## Total: 38 Hours
+**Total: 38 Hours**
