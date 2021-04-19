@@ -46,24 +46,24 @@ Worked on graph plugin refactoring
 
 ## Apr 15 Thr
 
-Functionality is done
-
 Worked on graph plugin refactoring
 
 3 Hours
 
 ## Apr 17 Sat
 
-Functionality is done
-
 Worked on graph plugin refactoring
 
-3 Hours
+Testing plugin
+
+2 Hours
 
 ## Apr 18 Sun
 
-Functionality is done
+Testing plugin
 
-Worked on graph plugin refactoring
+Clean up the code and document the code
 
-3 Hours
+4 Hours
+
+**Total: 36 Hours**

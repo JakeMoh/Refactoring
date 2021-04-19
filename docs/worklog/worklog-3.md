@@ -74,4 +74,4 @@ Studied how plugins work and worked on graph display
 
 2 Hour
 
-## Total: 34 Hours
+**Total: 34 Hours**
